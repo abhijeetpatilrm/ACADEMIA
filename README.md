@@ -30,9 +30,9 @@ ACADEMIA is designed to empower students with effortless, anonymous access to su
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a>&nbsp;
   <a href="https://www.prisma.io/docs/" title="Prisma ORM">
     <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma ORM" width="40" height="40"/></a>&nbsp;
-  <a href="https://authjs.dev/" title="Auth.js"><img src="https://skillicons.dev/icons?i=nextjs" alt="Auth.js" width="40" height="40"/></a>&nbsp;
+  <a href="https://authjs.dev/" title="Auth.js"><img src="https://skillicons.dev/icons?i=js" alt="Auth.js" width="40" height="40"/></a>&nbsp;
   <a href="https://edgestore.dev/docs" title="EdgeStore">
-    <img alt="EdgeStore" title="EdgeStore" width="40px" height="40px" src="https://skillicons.dev/icons?i=aws" /></a>
+    <img alt="EdgeStore" title="EdgeStore" width="40px" height="40px" src="https://skillicons.dev/icons?i=cloudflare" /></a>
 </div>
 
 ## ✨ Key Features
