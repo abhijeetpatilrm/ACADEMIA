@@ -10,7 +10,7 @@ declare module "next-auth" {
         id: string
         name: string
         email: string
-        image: string
+        image: string | null
         emailVerified: boolean | null
         isApproved: boolean
         updatedAt: Date | null
@@ -25,7 +25,7 @@ declare module "next-auth" {
             id: string
             name: string
             email: string
-            image: string
+            image: string | null
             emailVerified: boolean | null
             isApproved: boolean
             updatedAt: Date | null
