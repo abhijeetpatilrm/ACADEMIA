@@ -3,6 +3,8 @@
 # ACADEMIA 
 
 
+- ### Live Demo: [https://academia-beige.vercel.app/](https://academia-beige.vercel.app/)
+
 ## 🎓 Introduction
 
 **ACADEMIA  is a next-generation educational platform engineered for modern academic workflows. 
@@ -28,9 +30,9 @@ ACADEMIA is designed to empower students with effortless, anonymous access to su
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a>&nbsp;
   <a href="https://www.prisma.io/docs/" title="Prisma ORM">
     <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma ORM" width="40" height="40"/></a>&nbsp;
-  <a href="https://authjs.dev/" title="Auth.js"><img src="https://raw.githubusercontent.com/abhijeetpatilrm/abhijeetpatilrm.github.io/main/icons/nextauth.svg" alt="Auth.js" width="40" height="40"/></a>&nbsp;
+  <a href="https://authjs.dev/" title="Auth.js"><img src="https://skillicons.dev/icons?i=nextjs" alt="Auth.js" width="40" height="40"/></a>&nbsp;
   <a href="https://edgestore.dev/docs" title="EdgeStore">
-    <img alt="EdgeStore" title="EdgeStore" width="40px" height="40px" src="https://raw.githubusercontent.com/abhijeetpatilrm/abhijeetpatilrm.github.io/main/icons/edgestore.webp" /></a>
+    <img alt="EdgeStore" title="EdgeStore" width="40px" height="40px" src="https://skillicons.dev/icons?i=aws" /></a>
 </div>
 
 ## ✨ Key Features
